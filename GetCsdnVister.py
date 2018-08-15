@@ -19,14 +19,14 @@ blog_url = ["https://blog.csdn.net/m0_37925202/article/details/81154053",
        "https://blog.csdn.net/m0_37925202/article/details/81052888",  
        "https://blog.csdn.net/m0_37925202/article/details/81045391",  
        "https://blog.csdn.net/m0_37925202/article/details/81043198",
-       "https://blog.csdn.net/m0_37925202/article/details/80907713", #
-       "https://blog.csdn.net/m0_37925202/article/details/80899012", #
-	   "https://blog.csdn.net/m0_37925202/article/details/80903455",   #
-	   "https://blog.csdn.net/m0_37925202/article/details/80818561",   #
-	   "https://blog.csdn.net/m0_37925202/article/details/80816684",   #
-	   "https://blog.csdn.net/m0_37925202/article/details/80778636",   #
-	   "https://blog.csdn.net/m0_37925202/article/details/80777376",   #
-	   "https://blog.csdn.net/m0_37925202/article/details/80771751",   #
+       "https://blog.csdn.net/m0_37925202/article/details/80907713", 
+       "https://blog.csdn.net/m0_37925202/article/details/80899012", 
+	   "https://blog.csdn.net/m0_37925202/article/details/80903455",   
+	   "https://blog.csdn.net/m0_37925202/article/details/80818561",   
+	   "https://blog.csdn.net/m0_37925202/article/details/80816684",   
+	   "https://blog.csdn.net/m0_37925202/article/details/80778636",   
+	   "https://blog.csdn.net/m0_37925202/article/details/80777376",   
+	   "https://blog.csdn.net/m0_37925202/article/details/80771751",   
 	   "https://blog.csdn.net/m0_37925202/article/details/80721702",   #
 	   "https://blog.csdn.net/m0_37925202/article/details/80668170",   #
 	   "https://blog.csdn.net/m0_37925202/article/details/80602319",   #
@@ -76,5 +76,5 @@ for i in range(500):
     csdn.openCsdn()  
     
     
-#python刷取访问量方法。
-#亲测有效，不过稳定性有点问题，一天刷20分钟，可以获得2000左右的访问量
+#python刷取CSDN访问量方法。
+#亲测有效，不过稳定性有点问题，一天刷20分钟，可以获得10000左右的访问量。可以同时开多个进程同时执行，这样效率就会比较高。
