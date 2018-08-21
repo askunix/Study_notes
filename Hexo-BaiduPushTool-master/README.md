@@ -9,7 +9,7 @@
 
 ## 步骤
 ### Windows：
-- 直接在[我的项目主页](https://github.com/Lemon-XQ/Hexo-BaiduPushTool) **download zip** 或者**git bash**下执行`git clone https://github.com/Lemon-XQ/Hexo-BaiduPushTool.git`
+- 直接在[我的项目主页](https://github.com/askunix/Study_notes/tree/master/Hexo-BaiduPushTool-master) **download zip** 或者**git bash**下执行`git clone https://github.com/Lemon-XQ/Hexo-BaiduPushTool.git`
 - 打开_urlconfig.yml，填入你的**博客地址、使用主题、百度主动推送接口**，保存
 - 双击**baidupush.bat**文件，等待推送完成
 
